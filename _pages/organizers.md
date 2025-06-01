@@ -7,22 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-<div class="organizers-hero">
-  <div class="hero-content">
-    <h1 class="hero-title">Workshop Organizers</h1>
-    <p class="hero-subtitle">Interdisciplinary expertise bringing philosophy and AI together</p>
-    <div class="organizer-count">
-      <span class="count-number">11</span>
-      <span class="count-label">Core Organizers</span>
-    </div>
-  </div>
-  <div class="floating-elements">
-    <div class="element">🎯</div>
-    <div class="element">🤝</div>
-    <div class="element">🎓</div>
-  </div>
-</div>
-
 <div class="organizers-content">
   <section class="organizers-introduction">
     <h2>Our Organizing Team</h2>
@@ -40,12 +24,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Martin Ma</h3>
         <p class="organizer-affiliation">Carnegie Mellon University</p>
-        <p class="organizer-bio">Martin Ma is a PhD student in Philosophy at Carnegie Mellon University. His research focuses on the intersection of philosophy of mind, philosophy of language, and artificial intelligence. He is particularly interested in understanding the nature of consciousness, intentionality, and meaning in both biological and artificial systems.</p>
-        <div class="organizer-tags">
-          <span class="tag">Philosophy of Mind</span>
-          <span class="tag">AI</span>
-          <span class="tag">Consciousness</span>
-        </div>
       </div>
     </div>
 
@@ -59,12 +37,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Chandra Sripada</h3>
         <p class="organizer-affiliation">University of Michigan</p>
-        <p class="organizer-bio">Chandra Sripada is Professor of Philosophy and Psychiatry at the University of Michigan. His research lies at the intersection of philosophy, psychology, and neuroscience, focusing on topics such as free will, moral responsibility, mental illness, and the nature of self-control.</p>
-        <div class="organizer-tags">
-          <span class="tag">Philosophy</span>
-          <span class="tag">Neuroscience</span>
-          <span class="tag">Agency</span>
-        </div>
       </div>
     </div>
 
@@ -78,12 +50,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Vincent Mueller</h3>
         <p class="organizer-affiliation">University of Leeds</p>
-        <p class="organizer-bio">Vincent Mueller is Associate Professor of Philosophy at the University of Leeds. He specializes in philosophy of mind and artificial intelligence, with particular expertise in consciousness, machine ethics, and the philosophical implications of AI development.</p>
-        <div class="organizer-tags">
-          <span class="tag">Philosophy of Mind</span>
-          <span class="tag">AI Ethics</span>
-          <span class="tag">Consciousness</span>
-        </div>
       </div>
     </div>
 
@@ -97,12 +63,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Cameron Buckner</h3>
         <p class="organizer-affiliation">University of Houston</p>
-        <p class="organizer-bio">Cameron Buckner is Associate Professor of Philosophy at the University of Houston. His research focuses on philosophy of mind, cognitive science, and artificial intelligence, with special interest in animal cognition, rationality, and the nature of intelligence.</p>
-        <div class="organizer-tags">
-          <span class="tag">Cognitive Science</span>
-          <span class="tag">Animal Cognition</span>
-          <span class="tag">Intelligence</span>
-        </div>
       </div>
     </div>
 
@@ -116,12 +76,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Geoff Keeling</h3>
         <p class="organizer-affiliation">University of Cambridge</p>
-        <p class="organizer-bio">Geoff Keeling is Research Associate at the Leverhulme Centre for the Future of Intelligence at the University of Cambridge. His research examines philosophical questions about artificial intelligence, including issues of AI safety, alignment, and the nature of machine understanding.</p>
-        <div class="organizer-tags">
-          <span class="tag">AI Safety</span>
-          <span class="tag">AI Alignment</span>
-          <span class="tag">Philosophy</span>
-        </div>
       </div>
     </div>
 
@@ -135,12 +89,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Winnie Street</h3>
         <p class="organizer-affiliation">University of Sheffield</p>
-        <p class="organizer-bio">Winnie Street is Lecturer in Philosophy at the University of Sheffield. Her research focuses on philosophy of mind, philosophy of cognitive science, and the nature of mental representation. She has particular expertise in questions about consciousness and perception.</p>
-        <div class="organizer-tags">
-          <span class="tag">Philosophy of Mind</span>
-          <span class="tag">Mental Representation</span>
-          <span class="tag">Consciousness</span>
-        </div>
       </div>
     </div>
 
@@ -154,12 +102,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Emmy Liu</h3>
         <p class="organizer-affiliation">Harvard University</p>
-        <p class="organizer-bio">Emmy Liu is a PhD student in Computer Science at Harvard University. Her research focuses on natural language processing, machine learning, and the cognitive science of language. She is particularly interested in understanding how large language models process and generate language.</p>
-        <div class="organizer-tags">
-          <span class="tag">NLP</span>
-          <span class="tag">Machine Learning</span>
-          <span class="tag">Cognitive Science</span>
-        </div>
       </div>
     </div>
 
@@ -173,12 +115,7 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Hokin Deng</h3>
         <p class="organizer-affiliation">University of California, Berkeley</p>
-        <p class="organizer-bio">Hokin Deng is a PhD student in Computer Science at UC Berkeley and the leading organizer of this workshop. His research interests span machine learning, cognitive science, and artificial intelligence. For questions about the workshop, please contact: <a href="mailto:hokinxqdeng@gmail.com">hokinxqdeng@gmail.com</a></p>
-        <div class="organizer-tags">
-          <span class="tag">Machine Learning</span>
-          <span class="tag">Cognitive Science</span>
-          <span class="tag">Main Contact</span>
-        </div>
+        <p class="organizer-contact">For questions about the workshop, please contact: <a href="mailto:hokinxqdeng@gmail.com">hokinxqdeng@gmail.com</a></p>
       </div>
     </div>
 
@@ -192,12 +129,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Max Hellrigel</h3>
         <p class="organizer-affiliation">ETH Zurich</p>
-        <p class="organizer-bio">Max Hellrigel is a PhD student at ETH Zurich working on theoretical foundations of machine learning and artificial intelligence. His research examines fundamental questions about learning, generalization, and understanding in AI systems.</p>
-        <div class="organizer-tags">
-          <span class="tag">Machine Learning Theory</span>
-          <span class="tag">AI</span>
-          <span class="tag">Mathematics</span>
-        </div>
       </div>
     </div>
 
@@ -211,12 +142,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Freda Shi</h3>
         <p class="organizer-affiliation">University of Waterloo</p>
-        <p class="organizer-bio">Freda Shi is Assistant Professor of Computer Science at the University of Waterloo. Her research focuses on natural language processing, machine learning, and computational linguistics. She is particularly interested in understanding how language models represent and process meaning.</p>
-        <div class="organizer-tags">
-          <span class="tag">NLP</span>
-          <span class="tag">Computational Linguistics</span>
-          <span class="tag">Semantics</span>
-        </div>
       </div>
     </div>
 
@@ -230,12 +155,6 @@ nav_order: 4
       <div class="organizer-info">
         <h3 class="organizer-name">Dezhi Luo</h3>
         <p class="organizer-affiliation">Stanford University</p>
-        <p class="organizer-bio">Dezhi Luo is a PhD student in Computer Science at Stanford University. His research interests include machine learning, artificial intelligence, and cognitive science. He works on developing computational models that bridge artificial and natural intelligence.</p>
-        <div class="organizer-tags">
-          <span class="tag">Machine Learning</span>
-          <span class="tag">AI</span>
-          <span class="tag">Computational Modeling</span>
-        </div>
       </div>
     </div>
   </section>
@@ -413,28 +332,11 @@ nav_order: 4
   font-size: 1rem;
 }
 
-.organizer-bio {
-  color: #666;
-  line-height: 1.6;
-  margin-bottom: 1.5rem;
-  font-size: 0.95rem;
-}
-
-.organizer-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.tag {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 0.3rem 0.8rem;
-  border-radius: 15px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+.organizer-contact {
+  color: #667eea;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  font-size: 1rem;
 }
 
 @media (max-width: 768px) {
