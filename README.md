@@ -60,7 +60,7 @@ The workshop is organized by an interdisciplinary team from philosophy, computer
 
 ## Contact
 
-For questions about the workshop, please contact: [sripada@umich.edu](mailto:sripada@umich.edu)
+For questions about the workshop, please contact: [hokinxqdeng@gmail.com](mailto:hokinxqdeng@gmail.com)
 
 ---
 

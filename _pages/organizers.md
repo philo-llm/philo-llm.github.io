@@ -99,11 +99,11 @@ Emmy Liu is a PhD student in Computer Science at Harvard University. Her researc
 ---
 
 ### Hokin Deng
-**University of California, Berkeley** | Core Organizer
+**University of California, Berkeley** | Leading Organizer & Main Contact
 
 <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
 
-Hokin Deng is a PhD student in Computer Science at UC Berkeley. His research interests span machine learning, cognitive science, and artificial intelligence. He works on understanding the computational principles underlying intelligence in both artificial and biological systems, with particular focus on how insights from neuroscience and psychology can inform AI development.
+Hokin Deng is a PhD student in Computer Science at UC Berkeley and the leading organizer of this workshop. His research interests span machine learning, cognitive science, and artificial intelligence. He works on understanding the computational principles underlying intelligence in both artificial and biological systems, with particular focus on how insights from neuroscience and psychology can inform AI development. For questions about the workshop, please contact: [hokinxqdeng@gmail.com](mailto:hokinxqdeng@gmail.com)
 
 ---
 
@@ -136,23 +136,21 @@ Dezhi Luo is a PhD student in Computer Science at Stanford University. His resea
 
 ## Workflow Chairs
 
-### Vincent C. Müller
-**FAU Erlangen-Nuremberg** | [vincent.c.mueller@fau.de](mailto:vincent.c.mueller@fau.de)
+The workflow of the workshop is coordinated by our dedicated team:
 
-<img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent C. Müller" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
-
-Vincent C. Müller is Alexander von Humboldt Professor for Philosophy and Ethics of AI and Director of the Centre for Philosophy and AI Research (PAIR) at FAU Erlangen-Nürnberg, as well as Visiting Professor at TU Eindhoven, President of the European Society for Cognitive Systems, Chair of the Society for the Philosophy of Artificial Intelligence, and Chair of the euRobotics topics group on 'ethical, legal and socio-economic issues'. Müller works mainly on philosophical problems connected to artificial intelligence, both in ethics and in theoretical philosophy.
-
----
-
-### Martin Ziqiao Ma
-**University of Michigan** | [ziqiaoma@umich.edu](mailto:ziqiaoma@umich.edu)
-
-<div class="organizer-placeholder">
-[Workflow chair photo placeholder - Martin Ziqiao Ma image needed]
+<div class="workflow-card">
+  <h3>Hokin Deng</h3>
+  <p class="workflow-affiliation">UC Berkeley</p>
+  <p class="workflow-email"><a href="mailto:hokinxqdeng@gmail.com">hokinxqdeng@gmail.com</a></p>
+  <p class="workflow-bio">Leading organizer and main point of contact for workshop logistics and coordination. Responsible for overall workshop planning, speaker coordination, and participant communications.</p>
 </div>
 
-Martin Ziqiao Ma is a Ph.D. candidate at the University of Michigan. His research stands on the intersection of language, interaction, and embodiment from a cognitive perspective, with the goal of grounding and aligning language agents to non-linguistic modalities and rich interactive contexts. He is a recipient of the Weinberg Cognitive Science Fellowship, an Outstanding Paper Award at ACL 2023, and the Amazon Alexa Prize Simbot Challenge Award.
+<div class="workflow-card">
+  <h3>Emmy Liu</h3>
+  <p class="workflow-affiliation">UC Berkeley</p>
+  <p class="workflow-email"><a href="mailto:emmyliu@berkeley.edu">emmyliu@berkeley.edu</a></p>
+  <p class="workflow-bio">Co-organizer responsible for content curation and academic program coordination.</p>
+</div>
 
 ---
 
@@ -398,17 +396,17 @@ The Program Committee brings together philosophers and AI/ML researchers from ac
     <h2>Workflow Chairs</h2>
     <div class="workflow-cards">
       <div class="workflow-card">
-        <h3>Antonie Gonggrijp</h3>
-        <p class="workflow-affiliation">University of St Andrews</p>
-        <p class="workflow-email">ag360@st-andrews.ac.uk</p>
-        <p class="workflow-bio">Main organizer and point of contact for workshop logistics and coordination.</p>
+        <h3>Hokin Deng</h3>
+        <p class="workflow-affiliation">UC Berkeley</p>
+        <p class="workflow-email"><a href="mailto:hokinxqdeng@gmail.com">hokinxqdeng@gmail.com</a></p>
+        <p class="workflow-bio">Leading organizer and main point of contact for workshop logistics and coordination. Responsible for overall workshop planning, speaker coordination, and participant communications.</p>
       </div>
       
       <div class="workflow-card">
-        <h3>Benjamin Laufer</h3>
-        <p class="workflow-affiliation">University of Oxford</p>
-        <p class="workflow-email">benjamin.laufer@philosophy.ox.ac.uk</p>
-        <p class="workflow-bio">Co-organizer responsible for program development and speaker coordination.</p>
+        <h3>Emmy Liu</h3>
+        <p class="workflow-affiliation">UC Berkeley</p>
+        <p class="workflow-email"><a href="mailto:emmyliu@berkeley.edu">emmyliu@berkeley.edu</a></p>
+        <p class="workflow-bio">Co-organizer responsible for content curation and academic program coordination.</p>
       </div>
     </div>
   </section>
