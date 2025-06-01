@@ -13,7 +13,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/david_chalmers.jpg" alt="David Chalmers" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -29,7 +29,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/melanie_mitchell.jpg" alt="Melanie Mitchell" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -45,7 +45,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/been_kim.jpg" alt="Been Kim" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -61,7 +61,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/daniel_rothschild.jpg" alt="Daniel Rothschild" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -77,7 +77,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/yilun_du.jpg" alt="Yilun Du" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -93,7 +93,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/raphael_milliere.jpg" alt="Raphaël Millière" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -109,7 +109,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/ziming_liu.jpg" alt="Ziming Liu" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -125,7 +125,7 @@ nav_order: 1
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/ellie_pavlick.jpg" alt="Ellie Pavlick" class="speaker-image">
         <div class="speaker-overlay">
-          <div class="speaker-status">Confirmed</div>
+          <div class="speaker-status"></div>
         </div>
       </div>
       <div class="speaker-info">
@@ -318,21 +318,29 @@ nav_order: 1
 
 .speaker-overlay {
   position: absolute;
-  top: -10px;
-  right: -10px;
+  top: 5px;
+  right: 5px;
   z-index: 3;
 }
 
 .speaker-status {
-  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
   color: white;
-  padding: 0.4rem 0.8rem;
-  border-radius: 15px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 0.7rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(40, 167, 69, 0.3);
+  border: 2px solid white;
+}
+
+.speaker-status::before {
+  content: "✓";
+  font-size: 0.8rem;
 }
 
 .speaker-info {
