@@ -2,17 +2,12 @@
 layout: page
 permalink: /organizers/
 title: Organizers
-description: Core organizers for the Philosophy of AI workshop
+description: Our interdisciplinary organizing team brings together expertise from philosophy, cognitive science, and artificial intelligence to create meaningful dialogue about the implications of LLMs for understanding mind and intelligence.
 nav: true
 nav_order: 4
 ---
 
 <div class="organizers-content">
-  <section class="organizers-introduction">
-    <h2>Our Organizing Team</h2>
-    <p class="intro-text">Our interdisciplinary organizing team brings together expertise from philosophy, cognitive science, and artificial intelligence to create meaningful dialogue about the implications of LLMs for understanding mind and intelligence.</p>
-  </section>
-
   <section class="organizers-grid">
     <div class="organizer-card">
       <div class="organizer-image">
@@ -20,7 +15,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Martin Ma</h3>
-        <p class="organizer-affiliation">Carnegie Mellon University</p>
+        <p class="organizer-affiliation">University of Michigan</p>
       </div>
     </div>
 
@@ -40,7 +35,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Vincent Mueller</h3>
-        <p class="organizer-affiliation">University of Leeds</p>
+        <p class="organizer-affiliation">Eindhoven University of Technology</p>
       </div>
     </div>
 
@@ -50,7 +45,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Cameron Buckner</h3>
-        <p class="organizer-affiliation">University of Houston</p>
+        <p class="organizer-affiliation">University of Florida</p>
       </div>
     </div>
 
@@ -60,7 +55,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Geoff Keeling</h3>
-        <p class="organizer-affiliation">University of Cambridge</p>
+        <p class="organizer-affiliation">Google</p>
       </div>
     </div>
 
@@ -70,7 +65,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Winnie Street</h3>
-        <p class="organizer-affiliation">University of Sheffield</p>
+        <p class="organizer-affiliation">Google</p>
       </div>
     </div>
 
@@ -80,7 +75,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Emmy Liu</h3>
-        <p class="organizer-affiliation">Harvard University</p>
+        <p class="organizer-affiliation">Carnegie Mellon University</p>
       </div>
     </div>
 
@@ -90,8 +85,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Hokin Deng</h3>
-        <p class="organizer-affiliation">University of California, Berkeley</p>
-        <p class="organizer-contact">For questions about the workshop, please contact: <a href="mailto:hokinxqdeng@gmail.com">hokinxqdeng@gmail.com</a></p>
+        <p class="organizer-affiliation">Carnegie Mellon University</p>
       </div>
     </div>
 
@@ -101,7 +95,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Max Hellrigel</h3>
-        <p class="organizer-affiliation">ETH Zurich</p>
+        <p class="organizer-affiliation">FAU Erlangen-Nürnberg</p>
       </div>
     </div>
 
@@ -121,7 +115,7 @@ nav_order: 4
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Dezhi Luo</h3>
-        <p class="organizer-affiliation">Stanford University</p>
+        <p class="organizer-affiliation">University of Michigan</p>
       </div>
     </div>
   </section>
