@@ -1,18 +1,13 @@
 ---
 layout: page
 permalink: /speakers/
-title: 
-description:
+title: Speakers
+description: We are excited to feature eight distinguished speakers who bring diverse perspectives from philosophy, cognitive science, and artificial intelligence to explore fundamental questions about LLMs and the nature of mind.
 nav: true
 nav_order: 1
 ---
 
 <div class="speakers-content">
-  <section class="speakers-introduction">
-    <h2>Our Distinguished Panel</h2>
-    <p class="intro-text">We are excited to feature eight distinguished speakers who bring diverse perspectives from philosophy, cognitive science, and artificial intelligence to explore fundamental questions about LLMs and the nature of mind.</p>
-  </section>
-
   <div class="speakers-grid">
     <div class="speaker-card">
       <div class="speaker-image-container">
