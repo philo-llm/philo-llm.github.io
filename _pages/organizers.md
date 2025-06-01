@@ -4,6 +4,7 @@ permalink: /organizers/
 title: Organizers
 description: Core organizers for the Philosophy of AI workshop
 nav: true
+nav_order: 4
 ---
 
 ## Core Organizers

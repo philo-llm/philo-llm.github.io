@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /speakers/
-title: Invited Speakers
+title: Speakers
 description: Distinguished speakers for the Philosophy of AI workshop
 nav: true
+nav_order: 3
 ---
 
 ## Confirmed Invited Speakers

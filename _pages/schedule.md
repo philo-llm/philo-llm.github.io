@@ -4,6 +4,7 @@ permalink: /schedule/
 title: Schedule
 description: Workshop schedule for December 6/7, 2025
 nav: true
+nav_order: 2
 ---
 
 ## Workshop Schedule
