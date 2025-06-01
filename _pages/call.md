@@ -127,7 +127,7 @@ nav_order: 2
         <div class="timeline-marker"></div>
         <div class="timeline-content">
           <h3>Submission Open</h3>
-          <p class="date">10 July 2025 (AoE)</p>
+          <p class="date">15 July 2025 (AoE)</p>
         </div>
       </div>
       <div class="timeline-item">
