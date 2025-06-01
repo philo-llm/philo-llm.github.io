@@ -7,22 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<div class="speakers-hero">
-  <div class="hero-content">
-    <h1 class="hero-title">Invited Speakers</h1>
-    <p class="hero-subtitle">Distinguished voices in philosophy, AI, and cognitive science</p>
-    <div class="speaker-count">
-      <span class="count-number">8</span>
-      <span class="count-label">Confirmed Speakers</span>
-    </div>
-  </div>
-  <div class="floating-elements">
-    <div class="element">🎤</div>
-    <div class="element">🧠</div>
-    <div class="element">💡</div>
-  </div>
-</div>
-
 <div class="speakers-content">
   <section class="speakers-introduction">
     <h2>Our Distinguished Panel</h2>
@@ -321,62 +305,96 @@ nav_order: 1
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
   border: 1px solid #f0f0f0;
+  text-align: center;
+  padding: 2rem;
 }
 
 .speaker-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
 }
 
 .speaker-image-container {
   position: relative;
-  height: 250px;
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 1.5rem auto;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #f0f2f5 0%, #e1e8ed 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 4px solid #4facfe;
   overflow: hidden;
+}
+
+.speaker-image-container::before {
+  content: '👤';
+  position: absolute;
+  font-size: 3rem;
+  color: #ccc;
+  z-index: 1;
 }
 
 .speaker-image {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 50%;
   transition: transform 0.3s ease;
+  position: relative;
+  z-index: 2;
+  background: #f8f9fa;
+}
+
+.speaker-image:not([src]), 
+.speaker-image[src=""], 
+.speaker-image[src*="placeholder"] {
+  opacity: 0;
 }
 
 .speaker-card:hover .speaker-image {
   transform: scale(1.05);
 }
 
+.speaker-card:hover .speaker-image-container {
+  border-color: #00f2fe;
+}
+
 .speaker-overlay {
   position: absolute;
-  top: 1rem;
-  right: 1rem;
+  top: -10px;
+  right: -10px;
+  z-index: 3;
 }
 
 .speaker-status {
   background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
   color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
-  font-size: 0.8rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.7rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 .speaker-info {
-  padding: 2rem;
+  padding: 0;
 }
 
 .speaker-name {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   color: #333;
   margin-bottom: 0.5rem;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .speaker-affiliation {
   color: #4facfe;
-  font-weight: 500;
-  margin-bottom: 1rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
   font-size: 1rem;
 }
 
