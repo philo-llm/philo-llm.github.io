@@ -7,6 +7,28 @@ nav: true
 nav_order: 4
 ---
 
+<div class="organizers-hero">
+  <div class="hero-content">
+    <h1 class="hero-title">Workshop Organizers</h1>
+    <p class="hero-subtitle">Interdisciplinary expertise bringing philosophy and AI together</p>
+    <div class="organizer-count">
+      <span class="count-number">11+</span>
+      <span class="count-label">Core Organizers</span>
+    </div>
+  </div>
+  <div class="floating-elements">
+    <div class="element">🎯</div>
+    <div class="element">🤝</div>
+    <div class="element">🎓</div>
+  </div>
+</div>
+
+<div class="organizers-content">
+  <section class="organizers-introduction">
+    <h2>Our Organizing Team</h2>
+    <p class="intro-text">Our interdisciplinary organizing team brings together expertise from philosophy, cognitive science, and artificial intelligence to create meaningful dialogue about the implications of LLMs for understanding mind and intelligence.</p>
+  </section>
+
 ## Core Organizers
 
 Our interdisciplinary organizing team brings together expertise from philosophy, cognitive science, and artificial intelligence to create meaningful dialogue about the implications of LLMs for understanding mind and intelligence.
@@ -157,5 +179,592 @@ The Program Committee brings together philosophers and AI/ML researchers from ac
   border-radius: 8px;
   color: #666;
   font-style: italic;
+}
+</style>
+
+<div class="organizers-content">
+  <section class="organizers-grid">
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Antonie.jpg" alt="Antonie Gonggrijp">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Antonie Gonggrijp</h3>
+        <p class="organizer-affiliation">University of St Andrews</p>
+        <p class="organizer-bio">Antonie is a PhD student in philosophy at the University of St Andrews. His research focuses on the philosophy of mind and explores the ways in which large language models might challenge our understanding of concepts like content, intentionality, and meaning.</p>
+        <div class="organizer-tags">
+          <span class="tag">Philosophy of Mind</span>
+          <span class="tag">Intentionality</span>
+          <span class="tag">LLMs</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Ben.jpg" alt="Benjamin Laufer">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Benjamin Laufer</h3>
+        <p class="organizer-affiliation">University of Oxford</p>
+        <p class="organizer-bio">Benjamin is a DPhil student in philosophy at the University of Oxford. His research examines how recent advances in machine learning might inform philosophical debates about consciousness, and vice versa.</p>
+        <div class="organizer-tags">
+          <span class="tag">Consciousness</span>
+          <span class="tag">Machine Learning</span>
+          <span class="tag">Philosophy</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Cameron.jpeg" alt="Cameron Domenico Kirk-Giannini">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Cameron Domenico Kirk-Giannini</h3>
+        <p class="organizer-affiliation">Rutgers University</p>
+        <p class="organizer-bio">Cameron is an Assistant Professor of Philosophy at Rutgers University. His research focuses on the philosophy of mind, cognitive science, and the nature of mental representation in both humans and artificial systems.</p>
+        <div class="organizer-tags">
+          <span class="tag">Philosophy of Mind</span>
+          <span class="tag">Cognitive Science</span>
+          <span class="tag">Mental Representation</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Dimitri.jpg" alt="Dimitri Coelho Mollo">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Dimitri Coelho Mollo</h3>
+        <p class="organizer-affiliation">University of Antwerp</p>
+        <p class="organizer-bio">Dimitri is an Assistant Professor of Philosophy at the University of Antwerp. His research focuses on the philosophy of cognitive science and the nature of representation and computation in cognitive systems.</p>
+        <div class="organizer-tags">
+          <span class="tag">Cognitive Science</span>
+          <span class="tag">Representation</span>
+          <span class="tag">Computation</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Eleonore.jpg" alt="Eleonore Batteux">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Eleonore Batteux</h3>
+        <p class="organizer-affiliation">Université Paris 1 Panthéon-Sorbonne</p>
+        <p class="organizer-bio">Eleonore is a postdoctoral researcher at the Université Paris 1 Panthéon-Sorbonne. Her research interests include philosophy of mind, epistemology, and the philosophical implications of advances in artificial intelligence.</p>
+        <div class="organizer-tags">
+          <span class="tag">Philosophy of Mind</span>
+          <span class="tag">Epistemology</span>
+          <span class="tag">AI Philosophy</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Eva.jpg" alt="Eva Boog">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Eva Boog</h3>
+        <p class="organizer-affiliation">University of Cambridge</p>
+        <p class="organizer-bio">Eva is a PhD student in philosophy at the University of Cambridge. Her research examines the nature of understanding and explanation in the context of large language models and machine learning systems.</p>
+        <div class="organizer-tags">
+          <span class="tag">Understanding</span>
+          <span class="tag">Explanation</span>
+          <span class="tag">Machine Learning</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Fabrizio.jpg" alt="Fabrizio Cariani">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Fabrizio Cariani</h3>
+        <p class="organizer-affiliation">Northwestern University</p>
+        <p class="organizer-bio">Fabrizio is a Professor of Philosophy at Northwestern University. His research interests include philosophy of language, epistemology, and logic, with a particular focus on how these areas relate to developments in artificial intelligence.</p>
+        <div class="organizer-tags">
+          <span class="tag">Philosophy of Language</span>
+          <span class="tag">Epistemology</span>
+          <span class="tag">Logic</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Nir.jpg" alt="Nir Fresco">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Nir Fresco</h3>
+        <p class="organizer-affiliation">Ben-Gurion University of the Negev</p>
+        <p class="organizer-bio">Nir is an Associate Professor of Philosophy at Ben-Gurion University of the Negev. His research focuses on the philosophy of computing, information, and cognitive science, with special interest in computational theories of mind.</p>
+        <div class="organizer-tags">
+          <span class="tag">Philosophy of Computing</span>
+          <span class="tag">Information</span>
+          <span class="tag">Computational Mind</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Oron.jpg" alt="Oron Shagrir">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Oron Shagrir</h3>
+        <p class="organizer-affiliation">The Hebrew University of Jerusalem</p>
+        <p class="organizer-bio">Oron is a Professor of Philosophy and Cognitive Science at The Hebrew University of Jerusalem. His research focuses on the foundations of cognitive science, the nature of computation, and the philosophical implications of artificial intelligence.</p>
+        <div class="organizer-tags">
+          <span class="tag">Cognitive Science</span>
+          <span class="tag">Computation</span>
+          <span class="tag">AI Philosophy</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Robert.jpg" alt="Robert Long">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Robert Long</h3>
+        <p class="organizer-affiliation">Center for AI Safety</p>
+        <p class="organizer-bio">Robert is a researcher at the Center for AI Safety. His work focuses on the philosophy of mind, consciousness, and the ethical and philosophical implications of advanced artificial intelligence systems.</p>
+        <div class="organizer-tags">
+          <span class="tag">Philosophy of Mind</span>
+          <span class="tag">Consciousness</span>
+          <span class="tag">AI Safety</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organisers/Wolf.jpg" alt="Wolf Vanpaemel">
+        <div class="organizer-overlay">
+          <span class="organizer-role">Core Organizer</span>
+        </div>
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Wolf Vanpaemel</h3>
+        <p class="organizer-affiliation">KU Leuven</p>
+        <p class="organizer-bio">Wolf is a Professor of Psychology at KU Leuven. His research focuses on computational modeling of cognition and the relationship between artificial intelligence and human cognition.</p>
+        <div class="organizer-tags">
+          <span class="tag">Computational Modeling</span>
+          <span class="tag">Cognition</span>
+          <span class="tag">AI-Human Cognition</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="workflow-section">
+    <h2>Workflow Chairs</h2>
+    <div class="workflow-cards">
+      <div class="workflow-card">
+        <h3>Antonie Gonggrijp</h3>
+        <p class="workflow-affiliation">University of St Andrews</p>
+        <p class="workflow-email">ag360@st-andrews.ac.uk</p>
+        <p class="workflow-bio">Main organizer and point of contact for workshop logistics and coordination.</p>
+      </div>
+      
+      <div class="workflow-card">
+        <h3>Benjamin Laufer</h3>
+        <p class="workflow-affiliation">University of Oxford</p>
+        <p class="workflow-email">benjamin.laufer@philosophy.ox.ac.uk</p>
+        <p class="workflow-bio">Co-organizer responsible for program development and speaker coordination.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="committee-section">
+    <h2>Program Committee</h2>
+    <div class="committee-info">
+      <p class="committee-description">Our program committee brings together diverse expertise from philosophy, cognitive science, and AI research to ensure rigorous review and selection of workshop contributions.</p>
+      
+      <div class="committee-chairs">
+        <h3>Confirmed Program Committee Chairs</h3>
+        <ul class="chairs-list">
+          <li>Cameron Domenico Kirk-Giannini (Rutgers University)</li>
+          <li>Dimitri Coelho Mollo (University of Antwerp)</li>
+          <li>Eleonore Batteux (Université Paris 1 Panthéon-Sorbonne)</li>
+          <li>Eva Boog (University of Cambridge)</li>
+          <li>Fabrizio Cariani (Northwestern University)</li>
+          <li>Nir Fresco (Ben-Gurion University of the Negev)</li>
+          <li>Oron Shagrir (The Hebrew University of Jerusalem)</li>
+          <li>Robert Long (Center for AI Safety)</li>
+          <li>Wolf Vanpaemel (KU Leuven)</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</div>
+
+<style>
+.organizers-hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 4rem 2rem;
+  border-radius: 20px;
+  margin-bottom: 3rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.hero-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  background: linear-gradient(45deg, #fff, #e3f2fd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-subtitle {
+  font-size: 1.4rem;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+.organizers-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 15px;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.floating-elements {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.element {
+  position: absolute;
+  font-size: 2rem;
+  opacity: 0.1;
+  animation: float 6s ease-in-out infinite;
+}
+
+.element:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
+.element:nth-child(2) { top: 60%; right: 15%; animation-delay: 2s; }
+.element:nth-child(3) { bottom: 20%; left: 20%; animation-delay: 4s; }
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(5deg); }
+}
+
+.intro-section {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 4rem auto;
+  padding: 0 2rem;
+}
+
+.intro-section h2 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.intro-section p {
+  font-size: 1.2rem;
+  color: #666;
+  line-height: 1.8;
+}
+
+.organizers-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.organizers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.organizer-card {
+  background: white;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #f0f0f0;
+}
+
+.organizer-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.organizer-image {
+  position: relative;
+  height: 250px;
+  overflow: hidden;
+}
+
+.organizer-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.organizer-card:hover .organizer-image img {
+  transform: scale(1.05);
+}
+
+.organizer-overlay {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: rgba(102, 126, 234, 0.9);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.organizer-info {
+  padding: 2rem;
+}
+
+.organizer-name {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.organizer-affiliation {
+  color: #667eea;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.organizer-bio {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.organizer-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tag {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.workflow-section {
+  margin-bottom: 4rem;
+}
+
+.workflow-section h2 {
+  font-size: 2.5rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.workflow-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem;
+}
+
+.workflow-card {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 15px;
+  padding: 2rem;
+  border-left: 4px solid #667eea;
+  transition: transform 0.3s ease;
+}
+
+.workflow-card:hover {
+  transform: translateY(-5px);
+}
+
+.workflow-card h3 {
+  color: #333;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.workflow-affiliation {
+  color: #667eea;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.workflow-email {
+  color: #666;
+  font-family: monospace;
+  background: #f0f0f0;
+  padding: 0.3rem 0.6rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.workflow-bio {
+  color: #666;
+  line-height: 1.6;
+}
+
+.committee-section {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 20px;
+  padding: 3rem;
+  border: 1px solid #e9ecef;
+}
+
+.committee-section h2 {
+  font-size: 2.5rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.committee-description {
+  text-align: center;
+  color: #666;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 3rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.committee-chairs h3 {
+  color: #333;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.chairs-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+}
+
+.chairs-list li {
+  background: white;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  border-left: 4px solid #667eea;
+  color: #333;
+  font-weight: 500;
+  transition: transform 0.3s ease;
+}
+
+.chairs-list li:hover {
+  transform: translateX(5px);
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2.5rem;
+  }
+  
+  .organizers-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .workflow-cards {
+    grid-template-columns: 1fr;
+  }
+  
+  .chairs-list {
+    grid-template-columns: 1fr;
+  }
+  
+  .organizer-image {
+    height: 200px;
+  }
+  
+  .organizer-info {
+    padding: 1.5rem;
+  }
+  
+  .committee-section {
+    padding: 2rem;
+  }
 }
 </style> 
