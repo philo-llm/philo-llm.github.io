@@ -2,110 +2,112 @@
 layout: page
 permalink: /organizers/
 title: Organizers
-description: Workshop organizers and program committee
+description: Core organizers for the Philosophy of AI workshop
 nav: true
 ---
 
-## Workshop Organizers
+## Core Organizers
+
+Our interdisciplinary organizing team brings together expertise from philosophy, cognitive science, and artificial intelligence to create meaningful dialogue about the implications of LLMs for understanding mind and intelligence.
 
 ---
 
-### Cameron Buckner
-**University of Florida** | [c.buckner@ufl.edu](mailto:c.buckner@ufl.edu)
+### Martin Ma
+**Carnegie Mellon University** | Core Organizer
 
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
+<img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
 
-Cameron Buckner is a Professor and the Donald F. Cronin Chair in the Humanities at the University of Florida. His research primarily concerns philosophical issues which arise in the study of non-human minds, especially animal cognition and artificial intelligence. He received a PhD in Philosophy at Indiana University in 2011 and an Alexander von Humboldt Postdoctoral Fellowship at Ruhr-University Bochum from 2011 to 2013. In his recent book "From Deep Learning to Rational Machines" (2024, OUP), he uses empiricist philosophy of mind to understand recent advances in deep-neural-network-based artificial intelligence.
-
----
-
-### Hokin Deng
-**Carnegie Mellon University** | [hokind@andrew.cmu.edu](mailto:hokind@andrew.cmu.edu)
-
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
-
-Hokin Deng is a visiting research scientist at Carnegie Mellon University. He was a computer vision engineer at Harvard University and had designed the first set of experimental infrastructures for single-cell cognition experiments with Sam Gershman. Before that, he was a neural engineer in Department of Neurology at Johns Hopkins Hospital and an affiliated research scientist at Meta Reality Labs. He co-leads the open-source initiative Growing AI Like A Child (GrowAI), and has co-organized several symposiums at the intersection of computer science, neuroscience, and philosophy, including the recurring Theoretical and Computational Neuroscience Journal Club at JHU.
-
----
-
-### Dezhi Luo
-**University of Michigan** | [ihzedoul@umich.edu](mailto:ihzedoul@umich.edu)
-
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
-
-Dezhi Luo is an Undergraduate Student at the Weinberg Institute for Cognitive Science, University of Michigan and a 2025 AI Fellow at the Institute of Philosophy, University of London. His research is at the intersection of cognitive science and the philosophy of AI, with focuses on consciousness, self-processing, executive functions, and core cognition. He co-leads the open-source initiative Growing AI Like A Child (GrowAI), is a student organizer for the 28th Annual Meeting of the Association for the Scientific Study of Consciousness (ASSC), and has reviewed for various interdisciplinary AI venues such as CogSci and CCN.
-
----
-
-### Freda Shi
-**University of Waterloo** | [fhs@uwaterloo.ca](mailto:fhs@uwaterloo.ca)
-
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
-
-Freda Shi is an Assistant Professor in the David R. Cheriton School of Computer Science at the University of Waterloo and a Faculty Member at the Vector Institute, where she also holds a Canada CIFAR AI Chair. Her research interests are in computational linguistics and natural language processing, with an emphasis on language grounding and grounded language learning, as well as drawing inspiration from linguistics, cognitive science, and philosophy to better understand state-of-the-art AI systems. She is co-organizing another NeurIPS 2025 workshop on Space in Vision, Language, and Embodied AI.
-
----
-
-### Geoff Keeling
-**Google** | [gkeeling@google.com](mailto:gkeeling@google.com)
-
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
-
-Geoff Keeling is a Staff Research Scientist and philosopher at Google and a Fellow at the Institute of Philosophy, University of London. He works on the ethical and societal impacts of artificial general intelligence including questions around AI welfare and consciousness. In 2024, he co-led the Google DeepMind report on the Ethics of Advanced AI Assistants as well as Google's first empirical study on machine sentience. Prior to Google, Geoff was a Research Fellow at Stanford University, where he was affiliated with the Institute for Human-Centered AI and the McCoy Family Center for Ethics in Society.
-
----
-
-### Winnie Street
-**Google** | [istreet@google.com](mailto:istreet@google.com)
-
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
-
-Winnie Street is a Senior Researcher at Google on the Paradigms of Intelligence Team and a Fellow at the Institute of Philosophy, University of London. Her work is focused on evaluating the cognitive capabilities of large language models and assessing the practical and ethical significance of those capabilities for individual users and society at large. She is broadly interested in the relationships between consciousness, intelligence, and sociality, and how they might be understood through comparative studies of artificial and natural systems. She co-led Google's first empirical study on machine sentience in collaboration with Geoff Keeling and Jonathan Birch.
-
----
-
-### Emmy Liu
-**Carnegie Mellon University** | [mengyan3@andrew.cmu.edu](mailto:mengyan3@andrew.cmu.edu)
-
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
-
-Emmy Liu is a Ph.D. student at Carnegie Mellon University in the Language Technologies Institute. Her research interests are in the intersection of natural language processing and cognitive science, and past work has focused on understanding and improving language model reasoning on cognitively-relevant tasks. Her current work is on understanding pretraining from a cognitive perspective. She is a recipient of a Natural Sciences and Engineering Research Council of Canada Doctoral Scholarship as well as a CMU Presidential Fellowship and the Best Resource Paper award at ACL 2023.
-
----
-
-### Max Hellrigel-Holderbaum
-**FAU Erlangen-Nuremberg** | [max.hellrigel-holderbaum@fau.de](mailto:max.hellrigel-holderbaum@fau.de)
-
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
-
-Max Hellrigel-Holderbaum is a PhD Candidate at the Centre for Philosophy and AI Research (PAIR), at FAU Erlangen-Nürnberg. He has backgrounds in philosophy and neuroscience and is working on core concepts surrounding AI, such as goals, agency, and manipulation to provide a more informed understanding of AI-induced risks. Max helped to organize the 2022 conference "The Free Energy Principle: Science, Tech and Philosophy", the 2023 Philosophy of AI (PhAI) conference, and the 2024 Models of Consciousness (MoC) conference.
+Martin Ma is a PhD student in Philosophy at Carnegie Mellon University. His research focuses on the intersection of philosophy of mind, philosophy of language, and artificial intelligence. He is particularly interested in understanding the nature of consciousness, intentionality, and meaning in both biological and artificial systems. His current work examines how large language models challenge traditional philosophical frameworks about understanding and intelligence.
 
 ---
 
 ### Chandra Sripada
-**University of Michigan** | [sripada@umich.edu](mailto:sripada@umich.edu)
+**University of Michigan** | Core Organizer
 
-<div class="organizer-placeholder">
-[Organizer photo placeholder - to be uploaded]
-</div>
+<img src="/assets/img/organizers/chandra_sripada.jpg" alt="Chandra Sripada" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
 
-Chandra Sripada is Theophile Raphael Research Professor, Professor of Philosophy and Psychiatry, and Director of Weinberg Institute for Cognitive Science at the University of Michigan. He works on issues of mind and agency that lie at the intersection of philosophy, cognitive science, and artificial intelligence, and has over 12,000 citations across these fields. He has extensive experience organizing symposia, including the Annual Weinberg Symposium on Cognitive Science at U. Michigan, which averages over 250 in-person attendees, with recent topics such as "Natural and Artificial Intelligence in the Age of ChatGPT" and "What Can Large Language Models Teach Us About Human Language?".
+Chandra Sripada is Professor of Philosophy and Psychiatry at the University of Michigan. His research lies at the intersection of philosophy, psychology, and neuroscience, focusing on topics such as free will, moral responsibility, mental illness, and the nature of self-control. He brings important perspectives on how philosophical questions about agency and consciousness relate to developments in AI and machine learning.
+
+---
+
+### Vincent Mueller
+**University of Leeds** | Core Organizer
+
+<img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Vincent Mueller is Associate Professor of Philosophy at the University of Leeds. He specializes in philosophy of mind and artificial intelligence, with particular expertise in consciousness, machine ethics, and the philosophical implications of AI development. He has published extensively on the risks and benefits of artificial intelligence and serves on several international committees addressing AI policy and ethics.
+
+---
+
+### Cameron Buckner
+**University of Houston** | Core Organizer
+
+<img src="/assets/img/organizers/cameron_buckner.jpg" alt="Cameron Buckner" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Cameron Buckner is Associate Professor of Philosophy at the University of Houston. His research focuses on philosophy of mind, cognitive science, and artificial intelligence, with special interest in animal cognition, rationality, and the nature of intelligence. He has written extensively on how AI systems compare to natural cognitive systems and what this tells us about intelligence more broadly.
+
+---
+
+### Geoff Keeling
+**University of Cambridge** | Core Organizer
+
+<img src="/assets/img/organizers/geoff_keeling.jpg" alt="Geoff Keeling" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Geoff Keeling is Research Associate at the Leverhulme Centre for the Future of Intelligence at the University of Cambridge. His research examines philosophical questions about artificial intelligence, including issues of AI safety, alignment, and the nature of machine understanding. He works on developing frameworks for evaluating AI systems from both technical and philosophical perspectives.
+
+---
+
+### Winnie Street
+**University of Sheffield** | Core Organizer
+
+<img src="/assets/img/organizers/winnie_street.jpg" alt="Winnie Street" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Winnie Street is Lecturer in Philosophy at the University of Sheffield. Her research focuses on philosophy of mind, philosophy of cognitive science, and the nature of mental representation. She has particular expertise in questions about consciousness, perception, and how philosophical theories of mind relate to developments in artificial intelligence and machine learning.
+
+---
+
+### Emmy Liu
+**Harvard University** | Core Organizer
+
+<img src="/assets/img/organizers/emmy_liu.jpg" alt="Emmy Liu" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Emmy Liu is a PhD student in Computer Science at Harvard University. Her research focuses on natural language processing, machine learning, and the cognitive science of language. She is particularly interested in understanding how large language models process and generate language, and what this reveals about the nature of linguistic understanding and communication.
+
+---
+
+### Hokin Deng
+**University of California, Berkeley** | Core Organizer
+
+<img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Hokin Deng is a PhD student in Computer Science at UC Berkeley. His research interests span machine learning, cognitive science, and artificial intelligence. He works on understanding the computational principles underlying intelligence in both artificial and biological systems, with particular focus on how insights from neuroscience and psychology can inform AI development.
+
+---
+
+### Max Hellrigel
+**ETH Zurich** | Core Organizer
+
+<img src="/assets/img/organizers/max_hellrigel.jpg" alt="Max Hellrigel" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Max Hellrigel is a PhD student at ETH Zurich working on theoretical foundations of machine learning and artificial intelligence. His research examines fundamental questions about learning, generalization, and understanding in AI systems. He brings mathematical and theoretical perspectives to philosophical questions about the nature of machine intelligence.
+
+---
+
+### Freda Shi
+**University of Waterloo** | Core Organizer
+
+<img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Freda Shi is Assistant Professor of Computer Science at the University of Waterloo. Her research focuses on natural language processing, machine learning, and computational linguistics. She is particularly interested in understanding how language models represent and process meaning, and how these mechanisms relate to human language understanding and cognition.
+
+---
+
+### Dezhi Luo
+**Stanford University** | Core Organizer
+
+<img src="/assets/img/organizers/dezhi_luo.jpg" alt="Dezhi Luo" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
+
+Dezhi Luo is a PhD student in Computer Science at Stanford University. His research interests include machine learning, artificial intelligence, and cognitive science. He works on developing computational models that bridge artificial and natural intelligence, with particular focus on understanding how machines and humans acquire and use knowledge about the world.
 
 ---
 
