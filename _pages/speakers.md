@@ -12,9 +12,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/david_chalmers.jpg" alt="David Chalmers" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">David Chalmers</h3>
@@ -28,9 +25,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/melanie_mitchell.jpg" alt="Melanie Mitchell" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Melanie Mitchell</h3>
@@ -44,9 +38,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/been_kim.jpg" alt="Been Kim" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Been Kim</h3>
@@ -60,9 +51,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/daniel_rothschild.jpg" alt="Daniel Rothschild" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Daniel Rothschild</h3>
@@ -76,9 +64,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/yilun_du.jpg" alt="Yilun Du" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Yilun Du</h3>
@@ -92,9 +77,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/raphael_milliere.jpg" alt="Raphaël Millière" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Raphaël Millière</h3>
@@ -108,9 +90,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/ziming_liu.jpg" alt="Ziming Liu" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Ziming Liu</h3>
@@ -124,9 +103,6 @@ nav_order: 1
     <div class="speaker-card">
       <div class="speaker-image-container">
         <img src="/assets/img/speakers/ellie_pavlick.jpg" alt="Ellie Pavlick" class="speaker-image">
-        <div class="speaker-overlay">
-          <div class="speaker-status"></div>
-        </div>
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Ellie Pavlick</h3>
