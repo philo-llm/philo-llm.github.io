@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /speakers/
-title: Speakers
-description: Distinguished speakers for the Philosophy of AI workshop
+#title: Speakers
+#description: Distinguished speakers for the Philosophy of AI workshop
 nav: true
 nav_order: 1
 ---
