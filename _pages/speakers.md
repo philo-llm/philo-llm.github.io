@@ -78,9 +78,7 @@ Ziming Liu is an incoming assistant professor at Tsinghua University and a final
 ### Ellie Pavlick
 **Brown University & Google DeepMind** | [Confirmed]
 
-<div class="speaker-placeholder">
-[Speaker photo placeholder - Ellie Pavlick image needed]
-</div>
+<img src="/assets/img/speakers/ellie_pavlick.jpg" alt="Ellie Pavlick" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
 
 Ellie Pavlick is an Associate Professor of Computer Science, Cognitive Science, and Linguistics at Brown University, and a Research Scientist at Google DeepMind. She leads the Language Understanding and Representation (LUNAR) Lab, which seeks to understand how language "works" and to build computational models which can understand language the way that humans do. Her lab's projects focus on language broadly construed, and often includes the study of capacities more general than language, including conceptual representations, reasoning, learning, and generalization. She is interested in understanding how humans achieve these things, how computational models (especially large language models and similar types of "black box" AI systems) achieve these things, and what insights can be gained from comparing the two.
 

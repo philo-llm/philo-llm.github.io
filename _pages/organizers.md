@@ -116,9 +116,7 @@ Dezhi Luo is a PhD student in Computer Science at Stanford University. His resea
 ### Vincent C. Müller
 **FAU Erlangen-Nuremberg** | [vincent.c.mueller@fau.de](mailto:vincent.c.mueller@fau.de)
 
-<div class="organizer-placeholder">
-[Workflow chair photo placeholder - to be uploaded]
-</div>
+<img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent C. Müller" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px; margin: 1em 0;">
 
 Vincent C. Müller is Alexander von Humboldt Professor for Philosophy and Ethics of AI and Director of the Centre for Philosophy and AI Research (PAIR) at FAU Erlangen-Nürnberg, as well as Visiting Professor at TU Eindhoven, President of the European Society for Cognitive Systems, Chair of the Society for the Philosophy of Artificial Intelligence, and Chair of the euRobotics topics group on 'ethical, legal and socio-economic issues'. Müller works mainly on philosophical problems connected to artificial intelligence, both in ethics and in theoretical philosophy.
 
@@ -128,7 +126,7 @@ Vincent C. Müller is Alexander von Humboldt Professor for Philosophy and Ethics
 **University of Michigan** | [ziqiaoma@umich.edu](mailto:ziqiaoma@umich.edu)
 
 <div class="organizer-placeholder">
-[Workflow chair photo placeholder - to be uploaded]
+[Workflow chair photo placeholder - Martin Ziqiao Ma image needed]
 </div>
 
 Martin Ziqiao Ma is a Ph.D. candidate at the University of Michigan. His research stands on the intersection of language, interaction, and embodiment from a cognitive perspective, with the goal of grounding and aligning language agents to non-linguistic modalities and rich interactive contexts. He is a recipient of the Weinberg Cognitive Science Fellowship, an Outstanding Paper Award at ACL 2023, and the Amazon Alexa Prize Simbot Challenge Award.
