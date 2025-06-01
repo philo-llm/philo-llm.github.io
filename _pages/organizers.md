@@ -9,37 +9,8 @@ nav_order: 4
 
 <div class="organizers-content">
   <section class="organizers-grid">
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Martin Ma</h3>
-        <p class="organizer-affiliation">University of Michigan</p>
-      </div>
-    </div>
 
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/chandra_sripada.jpg" alt="Chandra Sripada">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Chandra Sripada</h3>
-        <p class="organizer-affiliation">University of Michigan</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Vincent Mueller</h3>
-        <p class="organizer-affiliation">Eindhoven University of Technology</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
+  <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/cameron_buckner.jpg" alt="Cameron Buckner">
       </div>
@@ -49,7 +20,67 @@ nav_order: 4
       </div>
     </div>
 
-    <div class="organizer-card">
+  <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng">
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Hokin Deng</h3>
+        <p class="organizer-affiliation">Carnegie Mellon University</p>
+      </div>
+    </div>
+
+  <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi">
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Freda Shi</h3>
+        <p class="organizer-affiliation">University of Waterloo</p>
+      </div>
+    </div>
+
+  <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organizers/dezhi_luo.jpg" alt="Dezhi Luo">
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Dezhi Luo</h3>
+        <p class="organizer-affiliation">University of Michigan</p>
+      </div>
+    </div>
+
+  <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma">
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Martin Ma</h3>
+        <p class="organizer-affiliation">University of Michigan</p>
+      </div>
+    </div>
+
+  <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organizers/chandra_sripada.jpg" alt="Chandra Sripada">
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Chandra Sripada</h3>
+        <p class="organizer-affiliation">University of Michigan</p>
+      </div>
+    </div>
+
+  <div class="organizer-card">
+      <div class="organizer-image">
+        <img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller">
+      </div>
+      <div class="organizer-info">
+        <h3 class="organizer-name">Vincent Mueller</h3>
+        <p class="organizer-affiliation">Eindhoven University of Technology</p>
+      </div>
+    </div>
+
+  <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/geoff_keeling.jpg" alt="Geoff Keeling">
       </div>
@@ -81,41 +112,11 @@ nav_order: 4
 
     <div class="organizer-card">
       <div class="organizer-image">
-        <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Hokin Deng</h3>
-        <p class="organizer-affiliation">Carnegie Mellon University</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
-      <div class="organizer-image">
         <img src="/assets/img/organizers/max_hellrigel.jpg" alt="Max Hellrigel">
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Max Hellrigel</h3>
         <p class="organizer-affiliation">FAU Erlangen-Nürnberg</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Freda Shi</h3>
-        <p class="organizer-affiliation">University of Waterloo</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/dezhi_luo.jpg" alt="Dezhi Luo">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Dezhi Luo</h3>
-        <p class="organizer-affiliation">University of Michigan</p>
       </div>
     </div>
   </section>

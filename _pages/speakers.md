@@ -27,11 +27,6 @@ nav_order: 1
         <div class="speaker-bio">
           <p>David Chalmers is University Professor of Philosophy and Neural Science and co-director of the Center for Mind, Brain, and Consciousness at New York University. He is the author of <em>The Conscious Mind</em> (1996), <em>Constructing The World</em> (2010), and <em>Reality+: Virtual Worlds and the Problems of Philosophy</em> (2022). He is known for formulating the "hard problem" of consciousness, which inspired Tom Stoppard's play <em>The Hard Problem</em>, and for the idea of the "extended mind," which says that the tools we use can become parts of our minds. He is widely regarded as one of the most important living philosophers, whose work has transformative impact on numerous disciplines, including the development of artificial intelligence.</p>
         </div>
-        <div class="speaker-tags">
-          <span class="tag">Consciousness</span>
-          <span class="tag">Philosophy of Mind</span>
-          <span class="tag">Extended Mind</span>
-        </div>
       </div>
     </div>
 
@@ -47,11 +42,6 @@ nav_order: 1
         <p class="speaker-affiliation">Santa Fe Institute</p>
         <div class="speaker-bio">
           <p>Melanie Mitchell is a Professor at Santa Fe Institute. She previously held faculty or research positions at the University of Michigan, the Santa Fe Institute, Los Alamos National Laboratory, the Oregon Graduate Institute, and Portland State University, and received her PhD in Computer Science from the University of Michigan. Her recent research focuses on conceptual abstraction and analogy-making in humans and in artificial intelligence systems. Melanie is the author or editor of six books and over 100 scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems.</p>
-        </div>
-        <div class="speaker-tags">
-          <span class="tag">AI Research</span>
-          <span class="tag">Cognitive Science</span>
-          <span class="tag">Complexity</span>
         </div>
       </div>
     </div>
@@ -69,11 +59,6 @@ nav_order: 1
         <div class="speaker-bio">
           <p>Been Kim is a Senior Staff Research Scientist at Google DeepMind, dedicated to fostering effective communication and collaboration between humans and complex machine learning models. Her research aims to harness machine intelligence for human benefit. Notably, her recent work in teaching superhuman chess concepts to grandmasters, one of them becoming the youngest World Chess Champion (Gukesh). Dr. Kim is an accomplished speaker, having given a talk at the G20 meeting in Argentina (2019) and keynotes at ICLR (2022) and ECML (2020).</p>
         </div>
-        <div class="speaker-tags">
-          <span class="tag">Machine Learning</span>
-          <span class="tag">Human-AI Interaction</span>
-          <span class="tag">Interpretability</span>
-        </div>
       </div>
     </div>
 
@@ -89,11 +74,6 @@ nav_order: 1
         <p class="speaker-affiliation">University College London</p>
         <div class="speaker-bio">
           <p>Daniel Rothschild is Professor of Philosophy of Language at UCL. Previously, Rothschild held faculty positions at Columbia University, Yale University, and All Souls College, Oxford. Rothschild's work focuses on language, knowledge and their interaction, and is known for his significant contributions to epistemology and the philosophy of language in general. Recently, Rothschild has written on the implications of large language models for philosophy of mind and he is currently working on a book about the relationship between machine learning and human learning.</p>
-        </div>
-        <div class="speaker-tags">
-          <span class="tag">Philosophy of Language</span>
-          <span class="tag">Epistemology</span>
-          <span class="tag">LLM Philosophy</span>
         </div>
       </div>
     </div>
@@ -111,11 +91,6 @@ nav_order: 1
         <div class="speaker-bio">
           <p>Yilun Du is an assistant professor at Harvard in the Kempner Institute and Computer Science. He was previously a senior research scientist at Google DeepMind and received his PhD from MIT. His research focuses on generative models, decision making, robot learning, embodied agents, and the applications of such tools to scientific domains. His research is driven by the goal of developing intelligent embodied agents in the physical world.</p>
         </div>
-        <div class="speaker-tags">
-          <span class="tag">Generative Models</span>
-          <span class="tag">Robotics</span>
-          <span class="tag">Embodied AI</span>
-        </div>
       </div>
     </div>
 
@@ -131,11 +106,6 @@ nav_order: 1
         <p class="speaker-affiliation">Macquarie University / University of Oxford</p>
         <div class="speaker-bio">
           <p>Raphaël Millière is Assistant Professor in Philosophy of AI at Macquarie University in Sydney and incoming Associate Professor at the University of Oxford. He is also an AI2050 Fellow (Schmidt Sciences) and an Australian Research Council DECRA Fellow. His research focuses on foundational questions regarding the capacities and limitations of modern deep neural networks, particularly language models. It addresses both first-order questions about whether these systems exhibit specific cognitive capacities, and second-order methodological challenges involved in evaluating these cognitive capacities in neural networks.</p>
-        </div>
-        <div class="speaker-tags">
-          <span class="tag">Philosophy of AI</span>
-          <span class="tag">Neural Networks</span>
-          <span class="tag">Cognitive Capacities</span>
         </div>
       </div>
     </div>
@@ -153,11 +123,6 @@ nav_order: 1
         <div class="speaker-bio">
           <p>Ziming Liu is an incoming assistant professor at Tsinghua University and a final-year PhD student at the Massachusetts Institute of Technology (MIT). His research bridges Science for AI—leveraging scientific principles to design and understand AI models—and AI for Science—applying AI to accelerate scientific discovery. Ziming's work has attracted wide attention in both the AI and physics communities, including a notable contribution to the development of Kolmogorov-Arnold Networks.</p>
         </div>
-        <div class="speaker-tags">
-          <span class="tag">AI for Science</span>
-          <span class="tag">Theoretical AI</span>
-          <span class="tag">Physics-AI</span>
-        </div>
       </div>
     </div>
 
@@ -173,11 +138,6 @@ nav_order: 1
         <p class="speaker-affiliation">Brown University & Google DeepMind</p>
         <div class="speaker-bio">
           <p>Ellie Pavlick is an Associate Professor of Computer Science, Cognitive Science, and Linguistics at Brown University, and a Research Scientist at Google DeepMind. She leads the Language Understanding and Representation (LUNAR) Lab, which seeks to understand how language "works" and to build computational models which can understand language the way that humans do. Her lab's projects focus on language broadly construed, and often includes the study of capacities more general than language, including conceptual representations, reasoning, learning, and generalization.</p>
-        </div>
-        <div class="speaker-tags">
-          <span class="tag">NLP</span>
-          <span class="tag">Language Understanding</span>
-          <span class="tag">Cognitive Science</span>
         </div>
       </div>
     </div>
@@ -399,29 +359,13 @@ nav_order: 1
 }
 
 .speaker-bio {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0;
 }
 
 .speaker-bio p {
   color: #666;
   line-height: 1.6;
   font-size: 0.95rem;
-}
-
-.speaker-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.tag {
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  color: #495057;
-  padding: 0.3rem 0.8rem;
-  border-radius: 15px;
-  font-size: 0.8rem;
-  font-weight: 500;
-  border: 1px solid #e9ecef;
 }
 
 @media (max-width: 768px) {
