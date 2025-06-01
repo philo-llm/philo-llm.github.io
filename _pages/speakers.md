@@ -4,7 +4,7 @@ permalink: /speakers/
 title: Speakers
 description: Distinguished speakers for the Philosophy of AI workshop
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 
 <div class="speakers-hero">

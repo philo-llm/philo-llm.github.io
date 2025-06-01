@@ -4,7 +4,7 @@ permalink: /call/
 title: Call for Papers
 description: Submission guidelines and topics for the Philosophy of AI workshop
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 <div class="call-hero">
