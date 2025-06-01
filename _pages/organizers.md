@@ -17,9 +17,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Martin Ma</h3>
@@ -30,9 +27,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/chandra_sripada.jpg" alt="Chandra Sripada">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Chandra Sripada</h3>
@@ -43,9 +37,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Vincent Mueller</h3>
@@ -56,9 +47,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/cameron_buckner.jpg" alt="Cameron Buckner">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Cameron Buckner</h3>
@@ -69,9 +57,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/geoff_keeling.jpg" alt="Geoff Keeling">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Geoff Keeling</h3>
@@ -82,9 +67,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/winnie_street.jpg" alt="Winnie Street">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Winnie Street</h3>
@@ -95,9 +77,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/emmy_liu.jpg" alt="Emmy Liu">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Emmy Liu</h3>
@@ -108,9 +87,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Leading Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Hokin Deng</h3>
@@ -122,9 +98,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/max_hellrigel.jpg" alt="Max Hellrigel">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Max Hellrigel</h3>
@@ -135,9 +108,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Freda Shi</h3>
@@ -148,9 +118,6 @@ nav_order: 4
     <div class="organizer-card">
       <div class="organizer-image">
         <img src="/assets/img/organizers/dezhi_luo.jpg" alt="Dezhi Luo">
-        <div class="organizer-overlay">
-          <span class="organizer-role">Core Organizer</span>
-        </div>
       </div>
       <div class="organizer-info">
         <h3 class="organizer-name">Dezhi Luo</h3>
@@ -264,7 +231,7 @@ nav_order: 4
 
 .organizers-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
   margin-bottom: 4rem;
 }
@@ -276,50 +243,42 @@ nav_order: 4
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   border: 1px solid #f0f0f0;
+  text-align: center;
+  padding: 2rem;
 }
 
 .organizer-card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
 }
 
 .organizer-image {
-  position: relative;
-  height: 250px;
-  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5rem;
 }
 
 .organizer-image img {
-  width: 100%;
-  height: 100%;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
   object-fit: cover;
-  transition: transform 0.3s ease;
+  border: 4px solid #667eea;
+  transition: transform 0.3s ease, border-color 0.3s ease;
 }
 
 .organizer-card:hover .organizer-image img {
   transform: scale(1.05);
-}
-
-.organizer-overlay {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  background: rgba(102, 126, 234, 0.9);
-  color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  border-color: #764ba2;
 }
 
 .organizer-info {
-  padding: 2rem;
+  padding: 0;
 }
 
 .organizer-name {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: #333;
   margin-bottom: 0.5rem;
@@ -336,7 +295,19 @@ nav_order: 4
   color: #667eea;
   font-weight: 600;
   margin-bottom: 1rem;
-  font-size: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.organizer-contact a {
+  color: #667eea;
+  text-decoration: none;
+  border-bottom: 1px dotted #667eea;
+}
+
+.organizer-contact a:hover {
+  color: #764ba2;
+  border-bottom-color: #764ba2;
 }
 
 @media (max-width: 768px) {
@@ -346,14 +317,24 @@ nav_order: 4
   
   .organizers-grid {
     grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
   
-  .organizer-image {
-    height: 200px;
-  }
-  
-  .organizer-info {
+  .organizer-card {
     padding: 1.5rem;
+  }
+  
+  .organizer-image img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .organizer-name {
+    font-size: 1.2rem;
+  }
+  
+  .organizer-affiliation {
+    font-size: 0.9rem;
   }
 }
 </style> 
