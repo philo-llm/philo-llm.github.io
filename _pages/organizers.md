@@ -104,7 +104,7 @@ nav_order: 4
   </section>
 
   <section class="workflow-chairs-section">
-    <h3>Additional Team Members</h3>
+    <h3>Workflow Chairs</h3>
     <div class="workflow-chairs-grid">
       <div class="organizer-card workflow-chair">
         <div class="organizer-image">
