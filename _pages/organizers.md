@@ -104,14 +104,13 @@ nav_order: 4
   </section>
 
   <section class="workflow-chairs-section">
-    <h3>Workflow Chairs</h3>
+    <h3>Additional Team Members</h3>
     <div class="workflow-chairs-grid">
       <div class="organizer-card workflow-chair">
         <div class="organizer-image">
           <img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller">
         </div>
         <div class="organizer-info">
-          <div class="organizer-role">Workflow Chair</div>
           <h3 class="organizer-name">Vincent Mueller</h3>
           <p class="organizer-affiliation">Eindhoven University of Technology</p>
         </div>
@@ -122,7 +121,6 @@ nav_order: 4
           <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma">
         </div>
         <div class="organizer-info">
-          <div class="organizer-role">Workflow Chair</div>
           <h3 class="organizer-name">Martin Ma</h3>
           <p class="organizer-affiliation">University of Michigan</p>
         </div>
