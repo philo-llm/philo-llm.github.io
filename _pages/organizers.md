@@ -8,115 +8,124 @@ nav_order: 4
 ---
 
 <div class="organizers-content">
-  <section class="organizers-grid">
-
-  <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/cameron_buckner.jpg" alt="Cameron Buckner">
+  <section class="organizers-section">
+    <h2>Organizing Committee</h2>
+    <div class="organizers-grid">
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/cameron_buckner.jpg" alt="Cameron Buckner">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Cameron Buckner</h3>
+          <p class="organizer-affiliation">University of Florida</p>
+        </div>
       </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Cameron Buckner</h3>
-        <p class="organizer-affiliation">University of Florida</p>
-      </div>
-    </div>
 
       <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Freda Shi</h3>
+          <p class="organizer-affiliation">University of Waterloo</p>
+        </div>
       </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Freda Shi</h3>
-        <p class="organizer-affiliation">University of Waterloo</p>
-      </div>
-    </div>
 
       <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/chandra_sripada.jpg" alt="Chandra Sripada">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/chandra_sripada.jpg" alt="Chandra Sripada">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Chandra Sripada</h3>
+          <p class="organizer-affiliation">University of Michigan</p>
+        </div>
       </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Chandra Sripada</h3>
-        <p class="organizer-affiliation">University of Michigan</p>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/geoff_keeling.jpg" alt="Geoff Keeling">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Geoff Keeling</h3>
+          <p class="organizer-affiliation">Google</p>
+        </div>
+      </div>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/winnie_street.jpg" alt="Winnie Street">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Winnie Street</h3>
+          <p class="organizer-affiliation">Google</p>
+        </div>
+      </div>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Hokin Deng</h3>
+          <p class="organizer-affiliation">Carnegie Mellon University</p>
+        </div>
+      </div>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/dezhi_luo.jpg" alt="Dezhi Luo">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Dezhi Luo</h3>
+          <p class="organizer-affiliation">University of Michigan</p>
+        </div>
+      </div>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/emmy_liu.jpg" alt="Emmy Liu">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Emmy Liu</h3>
+          <p class="organizer-affiliation">Carnegie Mellon University</p>
+        </div>
+      </div>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/max_hellrigel.jpg" alt="Max Hellrigel">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Max Hellrigel</h3>
+          <p class="organizer-affiliation">FAU Erlangen-Nürnberg</p>
+        </div>
       </div>
     </div>
+  </section>
 
-  <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller">
+  <section class="workflow-chairs-section">
+    <h3>Workflow Chairs</h3>
+    <div class="workflow-chairs-grid">
+      <div class="organizer-card workflow-chair">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller">
+        </div>
+        <div class="organizer-info">
+          <div class="organizer-role">Workflow Chair</div>
+          <h3 class="organizer-name">Vincent Mueller</h3>
+          <p class="organizer-affiliation">Eindhoven University of Technology</p>
+        </div>
       </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Vincent Mueller</h3>
-        <p class="organizer-affiliation">Eindhoven University of Technology</p>
-      </div>
-    </div>
 
-  <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/geoff_keeling.jpg" alt="Geoff Keeling">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Geoff Keeling</h3>
-        <p class="organizer-affiliation">Google</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/winnie_street.jpg" alt="Winnie Street">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Winnie Street</h3>
-        <p class="organizer-affiliation">Google</p>
-      </div>
-    </div>
-
-  <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Hokin Deng</h3>
-        <p class="organizer-affiliation">Carnegie Mellon University</p>
-      </div>
-    </div>
-
-  <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/dezhi_luo.jpg" alt="Dezhi Luo">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Dezhi Luo</h3>
-        <p class="organizer-affiliation">University of Michigan</p>
-      </div>
-    </div>
-
-  <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Martin Ma</h3>
-        <p class="organizer-affiliation">University of Michigan</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/emmy_liu.jpg" alt="Emmy Liu">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Emmy Liu</h3>
-        <p class="organizer-affiliation">Carnegie Mellon University</p>
-      </div>
-    </div>
-
-    <div class="organizer-card">
-      <div class="organizer-image">
-        <img src="/assets/img/organizers/max_hellrigel.jpg" alt="Max Hellrigel">
-      </div>
-      <div class="organizer-info">
-        <h3 class="organizer-name">Max Hellrigel</h3>
-        <p class="organizer-affiliation">FAU Erlangen-Nürnberg</p>
+      <div class="organizer-card workflow-chair">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma">
+        </div>
+        <div class="organizer-info">
+          <div class="organizer-role">Workflow Chair</div>
+          <h3 class="organizer-name">Martin Ma</h3>
+          <p class="organizer-affiliation">University of Michigan</p>
+        </div>
       </div>
     </div>
   </section>
@@ -279,6 +288,19 @@ nav_order: 4
   margin-bottom: 0.5rem;
 }
 
+.organizer-role {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.8rem;
+}
+
 .organizer-affiliation {
   color: #667eea;
   font-weight: 600;
@@ -331,5 +353,55 @@ nav_order: 4
   .organizer-affiliation {
     font-size: 0.9rem;
   }
+}
+
+.workflow-chairs-section {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+}
+
+.workflow-chairs-section h3 {
+  font-size: 1.8rem;
+  color: #666;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.workflow-chairs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.organizer-card.workflow-chair {
+  border: 1px solid #e0e0e0;
+  background: #fafafa;
+  transform: scale(0.95);
+}
+
+.organizers-section {
+  text-align: center;
+}
+
+.organizers-section h2 {
+  font-size: 2.2rem;
+  color: #333;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.organizers-section h2::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 2px;
 }
 </style> 
