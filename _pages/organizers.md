@@ -112,7 +112,7 @@ nav_order: 4
         </div>
         <div class="organizer-info">
           <h3 class="organizer-name">Vincent Mueller</h3>
-          <p class="organizer-affiliation">Eindhoven University of Technology</p>
+          <p class="organizer-affiliation">FAU Erlangen-Nuremberg</p>
         </div>
       </div>
 
